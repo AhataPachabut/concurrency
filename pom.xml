@@ -17,6 +17,10 @@
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <sonar.projectKey>concurrency</sonar.projectKey>
+    <sonar.projectName>concurrency</sonar.projectName>
+    <sonar.moduleKey>${project.artifactId}</sonar.moduleKey>
+    <sonar.token>sqp_62293971ac31e3f0d7b1b5f61c3ce2230410bead</sonar.token>
   </properties>
 
 </project>
